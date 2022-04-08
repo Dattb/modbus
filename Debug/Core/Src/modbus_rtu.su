@@ -1,0 +1,12 @@
+modbus_rtu.c:41:6:mobusSendNormalFunction	24	static
+modbus_rtu.c:54:5:rd_modbus_read_coil_handle	16	static
+modbus_rtu.c:68:5:rd_modbus_read_discrete_handle	16	static
+modbus_rtu.c:75:5:rd_modbus_read_holding_register_handle	16	static
+modbus_rtu.c:83:5:rd_modbus_read_input_register_handle	16	static
+modbus_rtu.c:90:5:rd_modbus_write_single_coid_handle	8	static
+modbus_rtu.c:94:5:rd_modbus_write_single_byte_handle	8	static
+modbus_rtu.c:100:5:rd_modbus_message_handle	40	static
+modbus_rtu.c:110:16:modbus_rtu_crc	32	static
+modbus_rtu.c:131:6:modbus_message_rx	16	static
+modbus_rtu.c:207:6:uartRead	24	static
+modbus_rtu.c:225:6:modbus_message_handle_	16	static

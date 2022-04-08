@@ -1,0 +1,4 @@
+RingBuffer.c:18:6:ring_init	24	static
+RingBuffer.c:34:6:ring_free	16	static
+RingBuffer.c:46:6:ring_push_head	16	static
+RingBuffer.c:70:6:ring_pop_tail	16	static
